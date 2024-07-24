@@ -1,6 +1,6 @@
 # CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support
 
-This is the repository for the CHIME [paper]() and [dataset](https://huggingface.co/datasets/joe32140/chime).
+This is the repository of the implementation in the [paper](https://arxiv.org/abs/2407.16148).
 
 ## Environment Setup
 
@@ -65,6 +65,13 @@ See `chime/src/parse_generated_hierarchy.py` parse the generated hierarchy into 
 If you use this code or dataset, please cite the following:
 
 ```
-@article{chime,
+@misc{hsu2024chimellmassistedhierarchicalorganization,
+      title={CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support}, 
+      author={Chao-Chun Hsu and Erin Bransom and Jenna Sparks and Bailey Kuehl and Chenhao Tan and David Wadden and Lucy Lu Wang and Aakanksha Naik},
+      year={2024},
+      eprint={2407.16148},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.16148}, 
 }
 ```
