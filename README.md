@@ -56,7 +56,7 @@ See `chime/src/parse_generated_hierarchy.py` parse the generated hierarchy into 
 
 ## Additional Resources
 
-- [Paper (link to be provided)](arxiv.org/)
+- [Paper](https://arxiv.org/abs/2407.16148)
 - `resources/raw_generated_hierarchy.csv` contains the raw generated hierarchies from the Claude-2.
 - `resources/raw_source_data.csv` contains the raw review and studies data from the Cochrane Library. The generated claims are also included in this file.
 
