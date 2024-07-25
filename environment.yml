@@ -23,7 +23,6 @@ dependencies:
   - exceptiongroup=1.2.2=pyhd8ed1ab_0
   - executing=2.0.1=pyhd8ed1ab_0
   - gmp=6.2.1=h295c915_3
-  - gmpy2=2.1.2=py39heeb90bb_0
   - importlib-metadata=8.0.0=pyha770c72_0
   - importlib_metadata=8.0.0=hd8ed1ab_0
   - intel-openmp=2023.1.0=hdb19cb5_46306
