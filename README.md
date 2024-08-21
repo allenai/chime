@@ -65,11 +65,25 @@ See `chime/src/parse_generated_hierarchy.py` parse the generated hierarchy into 
 If you use this code or dataset, please cite the following:
 
 ```
-@article{hsu2024chime,
-  title = {CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support},
-  author = {Hsu, Chao-Chun and Bransom, Erin and Sparks, Jenna and Kuehl, Bailey and Tan, Chenhao and Wadden, David and Wang, Lucy Lu and Naik, Aakanksha},
-  year = {2024},
-  month = aug,
-  journal = {ACL Findings},
+@inproceedings{hsu-etal-2024-chime,
+    title = "{CHIME}: {LLM}-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support",
+    author = "Hsu, Chao-Chun  and
+      Bransom, Erin  and
+      Sparks, Jenna  and
+      Kuehl, Bailey  and
+      Tan, Chenhao  and
+      Wadden, David  and
+      Wang, Lucy  and
+      Naik, Aakanksha",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.8",
+    pages = "118--132",
 }
 ```
