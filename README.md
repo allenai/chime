@@ -9,14 +9,14 @@ Conda environment is recommended for running the code. To create the environment
 conda env create -f environment.yml
 ```
 
-Download SciSpacy model:
-```bash
-pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
-```
-
 To activate the environment, run the following command:
 ```bash
 conda activate chime
+```
+
+Download SciSpacy model:
+```bash
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
 ```
 
 Add api keys to the environment variable:
